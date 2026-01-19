@@ -1,0 +1,83 @@
+[
+  {
+    "id": "p2",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2025-12-10T12:15:00Z",
+    "content": "万事俱备",
+    "likes": 2,
+    "comments": 0
+  },
+  {
+    "id": "p3",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2025-11-20T20:45:00Z",
+    "content": "工作的意义是什么呢？赚钱娶老婆吗？",
+    "likes": 5,
+    "comments": 0
+  },
+  {
+    "id": "p4",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2025-11-08T16:20:00Z",
+    "content": "最近手头有点紧，网上贷款平台靠谱吗？有人用过吗？",
+    "likes": 1,
+    "comments": 0
+  },
+  {
+    "id": "p5",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2025-10-05T09:30:00Z",
+    "content": "十月的尾声，有点想出去走走。可惜我的经济实力不允许我放假旅游。",
+    "likes": 4,
+    "comments": 0
+  },
+   {
+    "id": "p1",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2025-09-28T18:30:00Z",
+    "content": "国庆期间在家，有没有附近需要短工的？",
+    "location": "海州市青梧区槐安村 217 号",
+    "likes": 3,
+    "comments": 0
+  },
+  {
+    "id": "p6",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2025-09-15T14:10:00Z",
+    "content": "有懂二手手机的吗？",
+    "likes": 2,
+    "comments": 0
+  },
+  {
+    "id": "p7",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2025-08-20T19:50:00Z",
+    "content": "今天听说发小结婚了，而我还在奔波",
+    "likes": 3,
+    "comments": 0
+  },
+  {
+    "id": "p8",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2025-07-15T11:05:00Z",
+    "content": "有哪里缺人手吗？最近手头有点闲，想找点事做。",
+    "likes": 1,
+    "comments": 0
+  },
+  {
+    "id": "p9",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2025-06-10T15:25:00Z",
+    "content": "最近太热了，但是不打工就没得钱",
+    "likes": 4,
+    "comments": 0
+  },
+  {
+    "id": "p10",
+    "author": { "name": "zhoulm", "avatar": "周" },
+    "time": "2024-12-05T08:40:00Z",
+    "content": "早上好",
+    "likes": 2,
+    "comments": 0
+  }
+]
