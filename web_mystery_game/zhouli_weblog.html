@@ -134,7 +134,7 @@
     }
 
     // Load posts.json
-    fetch('zhoulm_weblog.json').then(r=>r.json()).then(data=>{
+    fetch('zhouli_weblog.json').then(r=>r.json()).then(data=>{
       // data should be an array of posts sorted newest first
       allPosts = data;
       if(!Array.isArray(allPosts)) allPosts = [];
