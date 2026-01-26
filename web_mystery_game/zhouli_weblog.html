@@ -40,6 +40,10 @@
 
     .load-more{display:block;margin:18px auto;padding:10px 18px;border-radius:8px;border:0;background:#fff;cursor:pointer}
 
+    .back-link{text-align:center;margin-top:20px;padding-bottom:30px}
+    .back-link a{display:inline-block;padding:10px 24px;background:var(--accent);color:#fff;text-decoration:none;border-radius:8px;font-size:14px;transition:opacity 0.3s}
+    .back-link a:hover{opacity:0.9}
+
     @media (max-width:640px){.images img{height:84px}.avatar{width:48px;height:48px}}
   </style>
 </head>
@@ -71,6 +75,10 @@
     </main>
 
     <button id="loadMore" class="load-more">加载更多</button>
+
+    <div class="back-link">
+      <a href="search.html">返回搜索</a>
+    </div>
   </div>
 
   <script>

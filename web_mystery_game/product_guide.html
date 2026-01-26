@@ -75,6 +75,31 @@
       box-shadow: 0 0 20px rgba(255, 0, 0, 0.8);
     }
 
+    .footer-back-link {
+      text-align: center;
+      margin: 40px 0;
+      padding: 30px 20px;
+    }
+
+    .footer-back-link a {
+      display: inline-block;
+      padding: 12px 30px;
+      background-color: var(--card);
+      color: var(--accent);
+      border: 1px solid var(--glow);
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 600;
+      transition: all 0.3s ease;
+    }
+
+    .footer-back-link a:hover {
+      background-color: var(--accent);
+      color: var(--bg);
+      box-shadow: 0 0 20px rgba(255, 0, 0, 0.8);
+    }
+
     main {
       max-width: 1200px;
       margin: 30px auto;
@@ -358,6 +383,10 @@
         <strong>提示：</strong>此表格仅显示部分在库货品。已出货订单请输入具体型号查找。
       </div>
     </section>
+
+    <div class="footer-back-link">
+      <a href="search.html">返回搜索</a>
+    </div>
   </main>
 </body>
 </html>

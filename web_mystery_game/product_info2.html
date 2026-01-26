@@ -75,6 +75,33 @@
       box-shadow: 0 0 20px rgba(255, 0, 0, 0.8);
     }
 
+    .footer-nav {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin: 40px 0;
+      padding: 30px 20px;
+    }
+
+    .footer-nav a {
+      display: inline-block;
+      padding: 12px 30px;
+      background-color: var(--card);
+      color: var(--accent);
+      border: 1px solid var(--glow);
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 600;
+      transition: all 0.3s ease;
+    }
+
+    .footer-nav a:hover {
+      background-color: var(--accent);
+      color: var(--bg);
+      box-shadow: 0 0 20px rgba(255, 0, 0, 0.8);
+    }
+
     main {
       max-width: 1200px;
       margin: 30px auto;
@@ -270,6 +297,11 @@
             <div class="info-value"><span class="highlight-value">NR03900291</span></div>
             </div>
         </div>
+
+    <div class="footer-nav">
+      <a href="product_guide.html">返回货品陈列</a>
+      <a href="search.html">返回搜索</a>
+    </div>
   </main>
 </body>
 </html>
